@@ -37,6 +37,7 @@
     "blueprint"
   ],
   "dependencies": {
-    "aglio": "1.14.0"
+    "aglio": "1.14.0",
+    "tempfile": "~0.1.3"
   }
 }
